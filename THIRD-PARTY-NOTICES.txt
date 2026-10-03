@@ -1,0 +1,7 @@
+Third-party notices
+
+This plugin bundles no third-party PHP, JavaScript, CSS, fonts, or image assets.
+It uses WordPress and WooCommerce APIs provided by the hosting site.
+
+The hosted Spellexo service is documented in readme.txt as an external SaaS
+service; it is not bundled code.

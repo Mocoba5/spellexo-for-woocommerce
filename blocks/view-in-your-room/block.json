@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spellexo/view-in-your-room",
+  "version": "0.1.0",
+  "title": "Spellexo — View In Your Room",
+  "category": "woocommerce",
+  "icon": "format-image",
+  "description": "Places the Spellexo viewer button on a WooCommerce Single Product template when the selected product or variation is eligible.",
+  "textdomain": "spellexo-for-woocommerce",
+  "supports": {
+    "align": ["wide", "full"],
+    "html": false,
+    "spacing": {
+      "margin": true,
+      "padding": true
+    }
+  },
+  "editorScript": "file:./editor.js",
+  "editorStyle": "file:./editor.css",
+  "render": "file:./render.php"
+}

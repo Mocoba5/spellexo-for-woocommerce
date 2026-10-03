@@ -1,0 +1,22 @@
+.spellexo-woocommerce-admin {
+	max-inline-size: 920px;
+}
+
+.spellexo-woocommerce-status-card {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 4px;
+	margin-block: 20px;
+	padding: 20px;
+}
+
+.spellexo-woocommerce-actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	align-items: center;
+}
+
+.spellexo-woocommerce-status-card table {
+	margin-block-end: 16px;
+}
