@@ -4,7 +4,7 @@
 
 [Spellexo](https://www.spellexo.com/) lets shoppers explore your products from every angle and see how they fit in their own room, alongside your existing product photos.
 
-**[Download the WordPress plugin](https://github.com/Mocoba5/spellexo-for-woocommerce/releases/latest)** · [Watch the demo](https://www.youtube.com/watch?v=3OgCWjlGBW4) · [Start free](https://dashboard.spellexo.com/)
+**[Download the WordPress plugin](https://github.com/Mocoba5/spellexo-for-woocommerce/releases/download/v0.1.0/spellexo-for-woocommerce-0.1.0.zip)** · [Watch the demo](https://www.youtube.com/watch?v=3OgCWjlGBW4) · [Start free](https://dashboard.spellexo.com/)
 
 ## Bring your products to life
 
@@ -22,7 +22,7 @@ Spellexo's browser-based AR extends beyond devices with built-in native AR suppo
 
 Requirements: WordPress 6.3+, WooCommerce 7.3+, PHP 7.4+, and an HTTPS storefront.
 
-1. Open [GitHub Releases](https://github.com/Mocoba5/spellexo-for-woocommerce/releases/latest) and download **spellexo-for-woocommerce-0.1.0.zip** from **Assets**.
+1. Download **[spellexo-for-woocommerce-0.1.0.zip](https://github.com/Mocoba5/spellexo-for-woocommerce/releases/download/v0.1.0/spellexo-for-woocommerce-0.1.0.zip)** from GitHub Releases.
 2. In WordPress, go to **Plugins → Add New → Upload Plugin**, select the ZIP, and click **Install Now**, then **Activate Plugin**.
 3. Open **WooCommerce → Spellexo**, click **Connect to Spellexo**, and sign in or create your Spellexo account.
 4. Synchronize your catalog, upload or request a model, assign it to a product or variation, and set it live within your plan limit.
